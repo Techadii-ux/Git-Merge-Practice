@@ -1,4 +1,4 @@
 def greet():
-    print("Welcome to Git Practice")
+    print("Welcome Aditya")
 
 greet()
