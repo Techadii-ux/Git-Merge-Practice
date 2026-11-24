@@ -3,3 +3,6 @@ def greet():
     print("Welcome Rohit")
 
 greet()
+
+
+print("Hello")
